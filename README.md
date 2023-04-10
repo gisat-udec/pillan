@@ -5,6 +5,9 @@ Se necesita seguir con la capacitación del funcionamiento del CANSAT para poder
 También hay que avanzar con los desafíos técnicos que involucran la construcción del CANSAT nuevo.
 
 ## Planificación LASC
+
+Es crítico el lograr resolver los desafíos técnicos y comprar componentes.
+
 ![Plan](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/gisat-udec/pillan/main/plan.iuml)
 
 ## Tareas

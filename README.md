@@ -12,28 +12,7 @@
 ## Planificación LASC
 ![Plan](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/gisat-udec/pillan/main/plan.iuml)
 
-## Objetivos específicos
-
-### Técnicos
-
-#### Transmisión de datos
-
-- Video en tiempo real
-- Comunicación bidireccional
-
-#### Paracaídas dirigible
-
-- Idea de diseño fundamentada
-- Compra de componentes
-- Prototipado
-- Implementación final
-
-#### Distribución de componentes en CANSAT
-
-- Selección de componentes y sus tamaños
-- Modelo 3D
-  
-### Público
+### Tareas
 
 #### Organizar pruebas de lanzamiento con dron
 - Cuando y con quién

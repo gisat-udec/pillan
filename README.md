@@ -12,6 +12,9 @@ También hay que avanzar con los desafíos técnicos que involucran la construcc
 - Organizar pruebas de lanzamiento con dron
   - Cuando y con quién
 - Identificar posibles sponsors
+- Cuantificar cuanto queremos sacarle a los sponsors y para qué
+  - Componentes
+  - Pasajes y estadía en Brasil
 - Crear material e idear experiencias para el público y sponsors
   - Demostración en vivo de despliegue del paracaídas?
   - Exposición sobre lo util de los CANSAT?

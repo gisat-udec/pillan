@@ -7,15 +7,15 @@ printscale weekly with calendar date zoom 3
 [Segundo avance y video] happens at 2023-05-28
 
 -- Paracaidas --
-[Proponer ideas de paracaidas] starts at D+0 and lasts 1 week
-[Comprar componentes paracaidas] starts at [Proponer ideas de paracaidas]'s end and lasts 1 week and is colored in crimson
+[Investigar ideas de paracaidas] starts at D+0 and lasts 1 week
+[Comprar componentes paracaidas] starts at [Investigar ideas de paracaidas]'s end and lasts 1 week and is colored in crimson
 [Implementar] starts at [Comprar componentes paracaidas]'s end and lasts 3 weeks
 [Pruebas con dron] starts at 2023-05-15 and lasts 2 weeks
 
 -- Distribución de componentes --
 [Investigar sobre distribución de componentes en CANSATs] starts at D+0 and lasts 2 week
 [Registrar dimensiones de componentes a utilizar] starts at D+0 and lasts 2 weeks
-[Proponer ideas de distribución] starts at D+7 and lasts 1 week
+[Seleccionar diseños de distribución] starts at D+7 and lasts 1 week
 [Crear modelos 3D] starts at D+7 and lasts 3 weeks
 [Imprimir modelos] starts at D+21 and lasts 2 week
 
@@ -24,5 +24,4 @@ printscale weekly with calendar date zoom 3
 [Comprar antena direccional] starts at D+7 and lasts 1 week and is colored in crimson
 [Probar rango y ancho de banda] starts at D+7 and lasts 3 weeks
 [Conseguir cámara] starts at D+0 and lasts 4 weeks
-
 @enduml

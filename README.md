@@ -9,7 +9,7 @@
 - Organizar pruebas de lanzamiento con dron
 - Crear material e idear experiencias para el público
 
-## Planificación
+## Planificación LASC
 ![Plan](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/gisat-udec/pillan/main/plan.iuml)
 
 ## Objetivos específicos

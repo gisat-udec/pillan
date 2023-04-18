@@ -1,9 +1,3 @@
-<style>
-img {
-    width: auto; height:40vh
-}
-</style>
-
 # Microprocesador
 
 ## Raspberry Pi Zero W

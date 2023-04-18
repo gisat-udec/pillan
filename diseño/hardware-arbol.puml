@@ -1,0 +1,46 @@
+@startuml
+
+skinparam linetype ortho
+
+Rectangle "CANSAT" as cansat {
+
+    Rectangle "Microprocesador" as subcpu {
+        [Raspberry Pi Zero W] as pi
+    } 
+
+    Rectangle "Subsistema energía" as subpow {
+        [2x ??? 18650] <<Batería>> as bat
+        [Waveshare UPS HAT] <<Fuente>> as psu
+        bat - psu
+
+    } 
+
+    Rectangle "Subsistema sensores" as subsen {
+        [u-blox NEO-6M] <<GPS>> as gps
+        [Adafruit IMU BNO085] <<IMU>> as imu
+        [TZT HDC1080] <<Humedad y temperatura>> as hdc
+    }
+
+    Rectangle "Subsistema comunicación" as subcom {
+        [Nvarcher RTL8812AU] <<Tarjeta de red>> as rt1
+        [???] <<Antena CANSAT>> as antcansat
+        rt1 -l- antcansat
+    }
+
+    subsen -r- subcpu
+    subpow -u- subcpu
+    subcom -- subcpu
+}
+
+Rectangle "Estación en tierra" as gs{
+    [Computador] as pc
+    [???] <<Antena Estación en tierra>> as antgs
+    [Nvarcher RTL8812AU] <<Tarjeta de red>> as rt2
+    pc -l- rt2
+    antgs - rt2
+} 
+
+gs -[hidden]d- cansat
+antgs .d. antcansat
+
+@enduml

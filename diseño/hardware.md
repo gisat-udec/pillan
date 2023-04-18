@@ -1,3 +1,5 @@
+![Diagrama](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/gisat-udec/pillan/main/diseño/hardware-arbol.puml)
+
 # Microprocesador
 
 ## Raspberry Pi Zero W

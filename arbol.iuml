@@ -19,6 +19,7 @@ Rectangle "CANSAT" as cansat {
         [u-blox NEO-6M] <<GPS>> as gps
         [Adafruit IMU BNO085] <<IMU>> as imu
         [TZT HDC1080] <<Humedad y temperatura>> as hdc
+        [Adafruit MPL3115A2] <<Altímetro, presión y temperatura>>
     }
 
     Rectangle "Subsistema comunicación" as subcom {

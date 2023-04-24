@@ -8,6 +8,7 @@
 | - | - |
 | Información técnica | https://www.raspberrypi.com/products/raspberry-pi-zero-w/ |
 | Stock GISAT | 1 Disponible |
+| Tienda | https://es.aliexpress.com/item/32834328275.html |
 | Dimensiones | Por medir |
 | Imagen | <img src="https://images.prismic.io/rpf-products/9371b539-77d4-47f1-b89b-aa65b23c9833_RPI%20ZERO%20W%20ANGLE%202%20REFRESH_.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&w=600&h=400" style="width: auto; height:40vh"> |
 
@@ -41,6 +42,16 @@
 | Stock GISAT | 1 Disponible |
 | Dimensiones | Por medir |
 | Imagen | <img src="https://ae01.alicdn.com/kf/H7b8e8184c4914e39932e016992fa09e5x/TZT-HDC1080-M-dulo-de-baja-potencia-Sensor-de-humedad-Digital-de-alta-precisi-n-GY.jpg_Q90.jpg_.webp" style="width: auto; height:40vh"> | 
+
+## Adafruit MPL3115A2
+
+| Función | Altimetro y sensor de presión, temperatura |
+| - | - |
+| Información técnica | https://www.adafruit.com/product/1893 |
+| Stock GISAT | 1 Por comprar |
+| Tienda | https://www.mouser.cl/ProductDetail/Adafruit/1893?qs=sGAEpiMZZMsvmS05OVPORhq6lW0AYZc7XJjzJp96MxxktzLnm%2FvzAg%3D%3D |
+| Dimensiones | Por medir |
+| Imagen | <img src="https://cdn-shop.adafruit.com/970x728/1893-02.jpg" style="width: auto; height:40vh"> |
 
 # Comunicación
 
@@ -76,3 +87,9 @@
 ## ??? 18650
 
 ???
+
+camara
+https://es.aliexpress.com/item/1005005128999592.html
+
+cable
+https://es.aliexpress.com/item/32718429808.html

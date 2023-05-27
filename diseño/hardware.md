@@ -1,4 +1,4 @@
-![Diagrama](hardware.drawio.svg)
+![Diagrama](rsc/hardware.drawio.svg)
 
 # Microprocesador
 

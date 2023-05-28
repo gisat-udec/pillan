@@ -1,4 +1,4 @@
-<img src="rsc/hardware.drawio.svg">
+<img src="https://raw.githubusercontent.com/gisat-udec/pillan/main/dise%C3%B1o/rsc/hardware.drawio.svg">
 
 # Microprocesador
 

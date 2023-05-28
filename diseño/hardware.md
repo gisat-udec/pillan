@@ -1,4 +1,4 @@
-![Diagrama](rsc/hardware.drawio.svg)
+<img src="rsc/hardware.drawio.svg">
 
 # Microprocesador
 

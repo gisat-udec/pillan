@@ -9,12 +9,20 @@ Sistema integrado capaz de transmisión de video en vivo y recopilación de info
 | - | - |
 | Diámetro | 66 [mm] |
 | Alto | 105 [mm] |
+| Peso sin paracaídas | 271 [g] |
+| Frecuencia de comunicación | 5.8 [GHz] |
+
+## [Armado](https://github.com/gisat-udec/pillan/blob/main/dise%C3%B1o/rsc/armado/armado.md)
+
+![](diseño/rsc/armado/10-weight.jpeg)
 
 ## [Componentes](https://github.com/gisat-udec/pillan/blob/main/dise%C3%B1o/hardware.md)
 
 <img src="https://raw.githubusercontent.com/gisat-udec/pillan/main/dise%C3%B1o/rsc/hardware.drawio.svg">
 
-## Modelos 3D
+## [Modelos 3D](https://github.com/gisat-udec/pillan/tree/main/dise%C3%B1o/3d)
+
+
 
 ## [LASC](https://www.lasc.space/)
 

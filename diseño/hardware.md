@@ -17,12 +17,12 @@
 | Tienda | [Aliexpress](https://es.aliexpress.com/item/1005005121506764.html) |
 | Imagen | <img src="https://ae01.alicdn.com/kf/Hdb532d9b5a714888bb3a1c3d2b4c9f37P.jpg_640x640Q90.jpg_.webp" style="width: auto; height:40vh"> |
 
-## Adafruit BME680
+## BME680
 
 | Función | Altímetro, sensor de presión y temperatura |
 | - | - |
 | Tienda | [Aliexpress](https://es.aliexpress.com/item/1005001602441073.html) |
-| Imagen | <img src="https://cdn-shop.adafruit.com/970x728/1893-02.jpg" style="width: auto; height:40vh"> |
+| Imagen | <img src="https://ae01.alicdn.com/kf/H755fa899515f4b39a157ba0ef548c8b2B.jpg_640x640Q90.jpg_.webp" style="width: auto; height:40vh"> |
 
 ## u-blox NEO-6M
 

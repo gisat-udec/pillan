@@ -12,28 +12,19 @@
 
 # Sensores
 
-## Adafruit IMU BNO085
+## BNO080
 
 | Función | Sensor de aceleración y orientación |
 | - | - |
-| Información técnica | https://www.adafruit.com/product/4754 |
-| Tienda | [Mouser](https://www.mouser.cl/ProductDetail/Adafruit/4754?qs=hd1VzrDQEGjjfej09NGRTw%3D%3D) |
-| Imagen | <img src="https://cdn-shop.adafruit.com/970x728/4754-00.jpg" style="width: auto; height:40vh"> |
+| Tienda | [Aliexpress](https://es.aliexpress.com/item/1005005121506764.html) |
+| Imagen | <img src="https://ae01.alicdn.com/kf/Hdb532d9b5a714888bb3a1c3d2b4c9f37P.jpg_640x640Q90.jpg_.webp" style="width: auto; height:40vh"> |
 
-## Adafruit MPL3115A2
+## Adafruit BME680
 
 | Función | Altímetro, sensor de presión y temperatura |
 | - | - |
-| Información técnica | https://www.adafruit.com/product/1893 |
-| Tienda | [Mouser](https://www.mouser.cl/ProductDetail/Adafruit/1893?qs=sGAEpiMZZMsvmS05OVPORhq6lW0AYZc7XJjzJp96MxxktzLnm%2FvzAg%3D%3D) |
+| Tienda | [Aliexpress](https://es.aliexpress.com/item/1005001602441073.html) |
 | Imagen | <img src="https://cdn-shop.adafruit.com/970x728/1893-02.jpg" style="width: auto; height:40vh"> |
-
-## TZT HDC1080
-
-| Función | Sensor de humedad y temperatura |
-| - | - |
-| Tienda | [All goods are freeshipping Store - Aliexpress](https://es.aliexpress.com/item/1005001487498324.html) |
-| Imagen | <img src="https://ae01.alicdn.com/kf/H7b8e8184c4914e39932e016992fa09e5x/TZT-HDC1080-M-dulo-de-baja-potencia-Sensor-de-humedad-Digital-de-alta-precisi-n-GY.jpg_Q90.jpg_.webp" style="width: auto; height:40vh"> | 
 
 ## u-blox NEO-6M
 
@@ -42,12 +33,6 @@
 | Información técnica | https://www.u-blox.com/en/product/neo-6-series/ |
 | Tienda | [All goods are freeshipping Store - Aliexpress](https://es.aliexpress.com/item/4000484910155.html) |
 | Imagen | <img src="https://ae01.alicdn.com/kf/Hdfbb5ebcc9874208a5b48268c2eef0290/M-dulo-GY-NEO6MV2-para-Arduino-control-de-vuelo-antena-grande-GPS-EEPROM-MWC-APM2-5.jpg_Q90.jpg_.webp" style="width: auto; height:40vh"> |
-
-
-
-
-
-
 
 # Comunicación
 

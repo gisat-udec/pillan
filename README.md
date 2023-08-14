@@ -14,7 +14,7 @@ Sistema integrado capaz de transmisión de video en vivo y recopilación de info
 
 ## [Armado](https://github.com/gisat-udec/pillan/blob/main/dise%C3%B1o/rsc/armado/armado.md)
 
-![](diseño/rsc/armado/10-weight.jpeg)
+<img src="https://github.com/gisat-udec/pillan/raw/main/dise%C3%B1o/rsc/armado/10-weight.jpeg" style="width: auto; height:80vh">
 
 ## [Componentes](https://github.com/gisat-udec/pillan/blob/main/dise%C3%B1o/hardware.md)
 

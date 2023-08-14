@@ -22,7 +22,9 @@ Sistema integrado capaz de transmisión de video en vivo y recopilación de info
 
 ## [Modelos 3D](https://github.com/gisat-udec/pillan/tree/main/dise%C3%B1o/3d)
 
+### [Link FUSION 360](https://a360.co/3DWnnnC)
 
+<img src="https://raw.githubusercontent.com/gisat-udec/pillan/main/dise%C3%B1o/rsc/fusion.png" style="width: auto; height:60vh">
 
 ## [LASC](https://www.lasc.space/)
 
